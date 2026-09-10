@@ -243,4 +243,4 @@ This repository serves as the official landing page for Minimoog V. The software
 **Get the most recent version of Minimoog V today!**
 
 ---
-**Last updated:** 2026-09-10 20:45:34 UTC
+**Last updated:** 2026-09-10 23:03:48 UTC
